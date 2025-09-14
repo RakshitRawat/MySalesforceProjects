@@ -42,6 +42,8 @@ fileReader;
 
 content;
 
+size;
+
 MAX_FILE_SIZE = 1500000;
 
 handleFilesChange(event) {
